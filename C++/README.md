@@ -37,6 +37,8 @@ Voglio costruire questo oggetto un passo alla volta. Voglio evitare di usare un 
   </tr>
 </table>
 
+![alt_text](Description/AereoEsploso.png "image_tooltip")
+
 
 Il pattern organizza la costruzione dell’oggetto in una serie di passi (buildBody, buildEngine, etc). Per creare un oggetto, viene mandato in esecuzione un elenco di questi passi all’interno di un oggetto Builder. 
 
