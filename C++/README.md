@@ -37,6 +37,9 @@ Voglio costruire questo oggetto un passo alla volta. Voglio evitare di usare un 
   </tr>
 </table>
 
+![alt_text](Description/AereoEsploso.png "image_tooltip")
+
+
 Il pattern organizza la costruzione dell’oggetto in una serie di passi (buildBody, buildEngine, etc). Per creare un oggetto, viene mandato in esecuzione un elenco di questi passi all’interno di un oggetto Builder. 
 
 **Nota:** Non è necessario chiamare _tutti_ i passi per produrre una particolare configurazione di un oggetto.
@@ -53,6 +56,7 @@ Per ogni versione diversa dell’oggetto c’è un builder diverso che viene chi
 
 Inoltre, la classe Direttore nasconde completamente i dettagli di costruzione di uno specifico prodotto. L’utilizzatore deve solo associare un builder con un direttore, eseguire la costruzione tramite un direttore e ottenere il risultato finale.
 
+<img src="https://refactoring.guru/images/patterns/content/builder/builder-comic-2-en.png?id=e19ff53e1494c0617847"/>
 
 ### **Struttura**
 
@@ -104,23 +108,19 @@ L’intero progetto è stato diviso in due cartelle: **include** che contiene gl
 Il codice implementa, come già detto, il Builder pattern. Gli oggetti da costruire sono degli **aerei**. Ho strutturato la gerarchia delle classi, predisponendo il sistema a possibili ampliamenti.
 
 
-
-
-
-
 ![alt_text](Description/AereiDiagram.png "image_tooltip")
 
 
 Ho creato una classe base **MezzoTrasporto** che viene estesa privatamente da **Aereo**. In questo modo ho usato l’**ereditarietà privata**. 
 
-Inoltre possiede il **campo privato** _str che contiene l’id dell’oggetto. \
+Inoltre possiede il **campo privato** _str che contiene l’id dell’oggetto.
 Il suo distruttore è **virtual**, in questo modo sono sicuro che venga chiamato il distruttore dello stesso tipo dell’istanza chiamante.
 
-Inoltre, possiede i metodi metodoOverload(int)/metodoOverload(string) per mostrare l’**overloading**. \
+Inoltre, possiede i metodi metodoOverload(int)/metodoOverload(string) per mostrare l’**overloading**. 
 
 
 Aereo **non** è sottotipo di MezzoTrasporto. Quindi i metodi pubblici di MezzoTrasporto è come se fossero privati per Aereo. Quindi il metodo show() di Aereo non è override del metodo show() di MezzoTrasporto. 
 
 Il distruttore di Aereo è **virtual**, in questo modo sono sicuro che venga chiamato anche il distruttore degli eventuali sottotipi.
 
-**AereoCombattimento **estende pubblicamente Aereo: è sottotipo. Possiede un campo privato composto da una lista (uso **list **della **STL**) ed esegue **override** del metodo show().
+**AereoCombattimento** estende pubblicamente Aereo: è sottotipo. Possiede un campo privato composto da una lista (uso **list** della **STL**) ed esegue **override** del metodo show().
