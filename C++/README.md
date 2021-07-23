@@ -27,18 +27,15 @@ Voglio costruire questo oggetto un passo alla volta. Voglio evitare di usare un 
   </tr>
   <tr>
    <td>+buildBody()
-<p>
+
 +buildEngine()
-<p>
+     
 +buildTail()
-<p>
+
 ....
    </td>
   </tr>
 </table>
-
-![alt_text](Description/AereoEsploso.png "image_tooltip")
-
 
 Il pattern organizza la costruzione dell’oggetto in una serie di passi (buildBody, buildEngine, etc). Per creare un oggetto, viene mandato in esecuzione un elenco di questi passi all’interno di un oggetto Builder. 
 
@@ -59,6 +56,7 @@ Inoltre, la classe Direttore nasconde completamente i dettagli di costruzione di
 
 ### **Struttura**
 
+![alt_text](Description/BuilderDirector.png "image_tooltip")
 
 
 1. L’interfaccia Builder dichiara i passi costruttivi che sono in comune con tutti i tipi di builders. 
@@ -110,7 +108,7 @@ Il codice implementa, come già detto, il Builder pattern. Gli oggetti da costru
 
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](Description/AereiDiagram.png "image_tooltip")
 
 
 Ho creato una classe base **MezzoTrasporto** che viene estesa privatamente da **Aereo**. In questo modo ho usato l’**ereditarietà privata**. 
