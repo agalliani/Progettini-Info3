@@ -1,0 +1,20 @@
+//// starting scenario
+scenario jet
+load ../specifiche/control.asm
+check sceltaCorpo = JET_BODY;
+check sceltaMotore = JET_ENGINE;
+set monMotore := JET_ENGINE;
+set monCorpo := JET_BODY;
+step
+check sceltaCorpo = JET_BODY;
+check sceltaMotore = JET_ENGINE;
+check aereo = JET;
+check outMess = "Aereo Jet costruito!";
+set monMotore := JET_ENGINE;
+set monCorpo := JET_BODY;
+step
+check sceltaCorpo = JET_BODY;
+check sceltaMotore = JET_ENGINE;
+check aereo = JET;
+check outMess = "Aereo Jet costruito!";
+step

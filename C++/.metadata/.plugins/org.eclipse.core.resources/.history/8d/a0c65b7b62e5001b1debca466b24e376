@@ -1,0 +1,32 @@
+/*
+ * AereoCombattimento.h
+ *
+ *  Created on: 15 Jul 2021
+ *      Author: andre
+ */
+
+#ifndef HEADERS_AEREOCOMBATTIMENTO_H_
+#define HEADERS_AEREOCOMBATTIMENTO_H_
+
+#include <list>
+#include "headers/Aereo.h"
+
+class AereoCombattimento: public Aereo{
+public:
+	//costruttore
+	AereoCombattimento(string tipoAereo);
+	//distruttore
+	~AereoCombattimento();
+
+	//metodi
+	void addWeapon(string arg);
+
+	list<string> getWeapon();
+
+};
+
+
+
+
+
+#endif /* HEADERS_AEREOCOMBATTIMENTO_H_ */

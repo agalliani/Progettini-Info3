@@ -1,0 +1,74 @@
+18:45:44 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\Director.o" "..\\code\\src\\source\\Director.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\PlaneBuilder.o" "..\\code\\src\\source\\PlaneBuilder.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\AereoCombattimento.o" "..\\code\\src\\source\\AereoCombattimento.cpp" 
+..\code\src\source\AereoCombattimento.cpp: In member function 'void AereoCombattimento::show()':
+..\code\src\source\AereoCombattimento.cpp:33:51: error: 'std::__cxx11::string Aereo::_plane' is private within this context
+   cout << "AereoCombattimento::\nPlane Type: " << _plane << endl << "Body Type: " << _body
+                                                   ^~~~~~
+In file included from ..\code\src\source\../include/AereoCombattimento.h:14:0,
+                 from ..\code\src\source\AereoCombattimento.cpp:3:
+..\code\src\source\../include/Aereo.h:29:9: note: declared private here
+  string _plane;
+         ^~~~~~
+..\code\src\source\AereoCombattimento.cpp:33:86: error: 'std::__cxx11::string Aereo::_body' is private within this context
+   cout << "AereoCombattimento::\nPlane Type: " << _plane << endl << "Body Type: " << _body
+                                                                                      ^~~~~
+In file included from ..\code\src\source\../include/AereoCombattimento.h:14:0,
+                 from ..\code\src\source\AereoCombattimento.cpp:3:
+..\code\src\source\../include/Aereo.h:30:9: note: declared private here
+  string _body;
+         ^~~~~
+..\code\src\source\AereoCombattimento.cpp:34:35: error: 'std::__cxx11::string Aereo::_engine' is private within this context
+     << endl << "Engine Type: " << _engine << endl << endl;
+                                   ^~~~~~~
+In file included from ..\code\src\source\../include/AereoCombattimento.h:14:0,
+                 from ..\code\src\source\AereoCombattimento.cpp:3:
+..\code\src\source\../include/Aereo.h:31:9: note: declared private here
+  string _engine;
+         ^~~~~~~
+18:47:20 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\AereoCombattimento.o" "..\\code\\src\\source\\AereoCombattimento.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 
+Info: Nothing to build for Aerei
+18:51:20 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\AereoCombattimento.o" "..\\code\\src\\source\\AereoCombattimento.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 
+Info: Nothing to build for Aerei
+18:55:31 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 
+Info: Nothing to build for Aerei
+18:56:03 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 
+19:09:59 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\PlaneBuilder.o" "..\\code\\src\\source\\PlaneBuilder.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\Director.o" "..\\code\\src\\source\\Director.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\Aereo.o" "..\\code\\src\\source\\Aereo.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\AereoCombattimento.o" "..\\code\\src\\source\\AereoCombattimento.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\MezzoTrasporto.o" "..\\code\\src\\source\\MezzoTrasporto.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 
+19:12:24 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\AereoCombattimento.o" "..\\code\\src\\source\\AereoCombattimento.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\Director.o" "..\\code\\src\\source\\Director.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\MezzoTrasporto.o" "..\\code\\src\\source\\MezzoTrasporto.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\Aereo.o" "..\\code\\src\\source\\Aereo.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\source\\PlaneBuilder.o" "..\\code\\src\\source\\PlaneBuilder.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 
+Info: Nothing to build for Aerei
+19:13:34 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 

@@ -1,0 +1,12 @@
+scenario propeller
+load ../specifiche/control.asm
+check sceltaCorpo = PROPELLER_BODY;
+check sceltaMotore = PROPELLER_ENGINE;
+set monMotore := PROPELLER_ENGINE;
+set monCorpo := PROPELLER_BODY;
+step
+check sceltaCorpo = PROPELLER_BODY;
+check sceltaMotore = PROPELLER_ENGINE;
+check aereo = PROPELLER;
+check outMess = "Aereo a Propulsione costruito!";
+step

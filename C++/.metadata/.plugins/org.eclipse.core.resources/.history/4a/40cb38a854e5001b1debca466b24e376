@@ -1,0 +1,25 @@
+#include "headers/MezzoTrasporto.h"
+
+//costruttore
+MezzoTrasporto::MezzoTrasporto() {
+	cout << "Costruttore MezzoTrasporto" << endl;
+}
+
+//distruttore virtual: chiamo i distruttori delle sotto-classi
+virtual MezzoTrasporto::~MezzoTrasporto() {
+	cout << "~MezzoTrasporto" << endl;
+}
+
+//metodi
+string MezzoTrasporto::getStr() const {
+	return _str;
+}
+
+virtual void MezzoTrasporto::show() const {
+	cout << "MezzoTrasporto metodo show: str = " << _str << endl;
+}
+
+_str = "mzxTrs";
+
+
+#endif /* HEADERS_MEZZOTRASPORTO_H_ */

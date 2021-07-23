@@ -1,0 +1,82 @@
+#include <iostream>
+using namespace std;
+#include "PlaneBuilder.h"
+#include "AereoCombattimento.h"
+
+//costruttore
+PlaneBuilder::PlaneBuilder() {
+	_aereo = 0;
+	cout << "Costruttore PlaneBuilder" << endl;
+}
+
+virtual PlaneBuilder::~PlaneBuilder() {
+	cout << "Distruttore PlaneBuilder" << endl;
+}
+
+Aereo* PlaneBuilder::getAereo(){
+	return _aereo;
+}
+
+
+
+// PlaneBuilder concrete class
+// Sa solo come costruire un  Propeller Plane
+class PropellerBuilder: public PlaneBuilder {
+public:
+	void getPartsDone() {
+		_aereo = new Aereo("Propeller Plane");
+	}
+	void buildEngine() {
+		_aereo->setEngine("Propeller Engine");
+	}
+	void buildBody() {
+		_aereo->setBody("Propeller Body");
+	}
+	~PropellerBuilder() {
+		delete _aereo;
+	}
+};
+
+// PlaneBuilder concrete class
+// Sa solo come costruire un Jet Plane
+class JetBuilder: public PlaneBuilder {
+public:
+	void getPartsDone() {
+		_aereo = new Aereo("Jet Plane");
+	}
+	void buildEngine() {
+		_aereo->setEngine("Jet Engine");
+	}
+	void buildBody() {
+		_aereo->setBody("Jet Body");
+	}
+	~JetBuilder() {
+		delete _aereo;
+	}
+};
+
+// PlaneBuilder concrete class
+// Sa solo come costruire un Fight Plane
+class FightBuilder: public PlaneBuilder {
+	AereoCombattimento *_f_aereo;
+public:
+	void getPartsDone() {
+		_f_aereo = new AereoCombattimento("Fight Plane");
+	}
+	void buildEngine() {
+		_f_aereo->setEngine("Jet Engine");
+	}
+	void buildBody() {
+		_f_aereo->setBody("Fight Body");
+	}
+
+	~FightBuilder() {
+		cout << "Distrutto un FightBuilder" << endl;
+		delete _f_aereo;
+	}
+
+	AereoCombattimento* getPlane() {
+		return _f_aereo;
+	}
+
+};

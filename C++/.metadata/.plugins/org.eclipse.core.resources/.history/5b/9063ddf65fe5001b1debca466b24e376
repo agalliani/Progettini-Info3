@@ -1,0 +1,19 @@
+#include "headers/PlaneBuilder.h"
+// PlaneBuilder concrete class
+// Sa solo come costruire un Jet Plane
+class JetBuilder: public PlaneBuilder {
+public:
+	void getPartsDone() {
+		_plane = new Plane("Jet Plane");
+	}
+	void buildEngine() {
+		_plane->setEngine("Jet Engine");
+	}
+	void buildBody() {
+		_plane->setBody("Jet Body");
+	}
+	~JetBuilder() {
+		delete _plane;
+	}
+};
+

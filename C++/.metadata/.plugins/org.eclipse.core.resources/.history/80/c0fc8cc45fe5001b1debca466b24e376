@@ -1,0 +1,23 @@
+/*
+ * JetBuilder.h
+ *
+ *  Created on: 15 Jul 2021
+ *      Author: andre
+ */
+
+#ifndef HEADERS_JETBUILDER_H_
+#define HEADERS_JETBUILDER_H_
+
+#include "headers/PlaneBuilder.h"
+
+class JetBuilder: public PlaneBuilder {
+public:
+	void PlaneBuilder::getPartsDone();
+	void PlaneBuilder::buildEngine();
+	void PlaneBuilder::buildBody();
+
+	//distruttore
+	~JetBuilder();
+};
+
+#endif /* HEADERS_JETBUILDER_H_ */

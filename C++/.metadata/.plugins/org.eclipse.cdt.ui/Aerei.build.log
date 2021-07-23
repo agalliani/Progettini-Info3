@@ -1,0 +1,7 @@
+19:13:34 **** Incremental Build of configuration Debug for project Aerei ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "code\\src\\Main.o" "..\\code\\src\\Main.cpp" 
+g++ -o Aerei.exe "code\\src\\Main.o" "code\\src\\source\\Aereo.o" "code\\src\\source\\AereoCombattimento.o" "code\\src\\source\\Director.o" "code\\src\\source\\MezzoTrasporto.o" "code\\src\\source\\PlaneBuilder.o" 
+
+19:13:35 Build Finished. 0 errors, 0 warnings. (took 814ms)
+

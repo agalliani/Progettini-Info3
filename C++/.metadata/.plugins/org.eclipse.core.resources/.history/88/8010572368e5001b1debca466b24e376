@@ -1,0 +1,21 @@
+/**Question: WHY Builder Design Pattern
+ * Answer  : Because i want to build an object (plane) and it is composed of complex
+ *            objects(body, engine,...) step by step.
+ */
+
+
+#include <iostream>
+using namespace std;
+
+#include "headers/Director.h"
+
+int main() {
+	Director dir;
+	Jet pb;
+
+
+
+
+
+	return 0;
+}

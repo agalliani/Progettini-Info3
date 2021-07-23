@@ -1,0 +1,15 @@
+Perchè usare il pattern Builder?
+
+Voglio creare un oggetto che è costruito attraverso l'unione di altri
+numerosi oggetti complessi che hanno dipendenze l'uno con l'altro.
+
+Esempio: Aereo --> motore, ali, coda...
+
+E voglio costruirlo PASSO PASSO.
+
+Per farlo è necessario avere una classe Direttore che gestisce la
+costruzione dell'oggetto seguendo uno specifico ordine prestabilito.
+
+Per ogni versione diversa dell'oggetto c'è un builder diverso che viene
+chiamato dal direttore.
+

@@ -1,0 +1,25 @@
+/*
+ * Aereo.h
+ *
+ *  Created on: 15 Jul 2021
+ *      Author: andre
+ */
+
+#ifndef HEADERS_AEREO_H_
+#define HEADERS_AEREO_H_
+
+
+#include "headers/MezzoTrasporto.h"
+
+class Aereo: private MezzoTrasporto{
+
+//costruttore
+public:
+	Plane(string planeType);
+
+
+};
+
+
+
+#endif /* HEADERS_AEREO_H_ */

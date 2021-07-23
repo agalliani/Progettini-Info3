@@ -1,0 +1,395 @@
+2021-07-15 11:42:21,552 ERROR [Worker-13: Configuring project ProvaProgettino] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 11:42:21,571 ERROR [Worker-13: Configuring project ProvaProgettino] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.launching.JREPreferenceModifyListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:42:25,182 ERROR [Worker-19: Load QML Analyzer] - System.err - Warning: Nashorn engine is planned to be removed from a future JDK release
+2021-07-15 11:44:04,019 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.console.JavaLikeExtensionsResolver
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,049 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,058 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,061 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,062 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,063 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachineManager is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,063 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,064 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,064 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachineManager is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,083 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,083 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,084 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,086 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,086 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachine
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,086 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachine
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,087 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachine is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,107 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.InvocationException
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,108 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.InvocationException
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,108 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.InvocationException is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,108 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ObjectReference
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,109 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ObjectReference
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,109 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.ObjectReference is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,109 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ReferenceType
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,110 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ReferenceType
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,110 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.ReferenceType is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:44:04,198 ERROR [Worker-19: Launching ProvaProgettino.exe] - System.err - AspectJ Internal Error: unable to add stackmap attributes. null
+2021-07-15 11:46:57,395 ERROR [ModalContext] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2021-07-15 11:46:57,395 ERROR [ModalContext] - System.err - log4j:WARN Please initialize the log4j system properly.
+2021-07-15 14:52:50,814 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,820 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaLineBreakpoint
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,823 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,823 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,824 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachineManager is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,824 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,824 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,824 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachineManager is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,834 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,834 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,834 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,835 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,835 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachine
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,835 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachine
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 14:52:50,836 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachine is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:04:34,453 ERROR [ModalContext] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2021-07-15 15:04:34,453 ERROR [ModalContext] - System.err - log4j:WARN Please initialize the log4j system properly.
+2021-07-15 15:19:00,955 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 15:19:00,959 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.launching.sourcelookup.advanced.JavaagentVariableResolver
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,011 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.console.JavaLikeExtensionsResolver
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,028 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.InvocationException
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,028 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.InvocationException
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,029 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.InvocationException is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,029 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ObjectReference
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,029 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ObjectReference
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,030 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.ObjectReference is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,030 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ReferenceType
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,030 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ReferenceType
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,030 ERROR [Worker-48: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.ReferenceType is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 15:19:01,082 ERROR [Worker-48: Launching Aerei.exe] - System.err - AspectJ Internal Error: unable to add stackmap attributes. null
+2021-07-21 18:08:46,672 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,688 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.launching.sourcelookup.advanced.JavaagentVariableResolver
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,862 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.console.JavaLikeExtensionsResolver
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,891 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,898 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,902 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,903 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,903 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachineManager is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,904 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,904 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachineManager
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,905 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachineManager is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,925 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,926 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,927 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,927 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VMDisconnectedException
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,927 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachine
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,928 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine superclass of missing type com.sun.jdi.VirtualMachine
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,928 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug] error can't determine whether missing type com.sun.jdi.VirtualMachine is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.core.hcr.JavaHotCodeReplaceManager
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,953 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.InvocationException
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,954 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.InvocationException
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,954 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.InvocationException is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,955 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ObjectReference
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,955 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ObjectReference
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,955 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.ObjectReference is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,955 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ReferenceType
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,956 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine superclass of missing type com.sun.jdi.ReferenceType
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:46,957 ERROR [Worker-0: Launching Aerei.exe] - System.err - [org.eclipse.jdt.debug.ui] error can't determine whether missing type com.sun.jdi.ReferenceType is an instance of org.eclipse.jdt.ui.text.JavaTextTools
+when weaving type org.eclipse.jdt.internal.debug.ui.display.JavaInspectExpression
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-21 18:08:47,061 ERROR [Worker-0: Launching Aerei.exe] - System.err - AspectJ Internal Error: unable to add stackmap attributes. null

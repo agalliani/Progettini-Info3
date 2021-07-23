@@ -1,0 +1,13 @@
+//// starting scenario
+scenario custom_propeller_jet
+load ../specifiche/control.asm
+check sceltaCorpo = PROPELLER_BODY;
+check sceltaMotore = JET_ENGINE;
+set monMotore := JET_ENGINE;
+set monCorpo := PROPELLER_BODY;
+step
+check sceltaCorpo = PROPELLER_BODY;
+check sceltaMotore = JET_ENGINE;
+check aereo = CUSTOM;
+check outMess = "Aereo Custom costruito!";
+step

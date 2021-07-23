@@ -1,0 +1,35 @@
+/*
+ * Builder.h
+ *
+ *  Created on: 15 Jul 2021
+ *      Author: andre
+ */
+
+#ifndef HEADERS_PLANEBUILDER_H_
+#define HEADERS_PLANEBUILDER_H_
+
+#include <Aereo.h>
+
+class PlaneBuilder{
+
+public:
+	//costruttore
+	PlaneBuilder();
+	//distruttore
+	virtual ~PlaneBuilder();
+
+	virtual void buildBody();
+	virtual void buildEngine();
+
+	Aereo* getAereo();
+
+protected:
+	Aereo *_aereo;
+
+};
+
+
+
+
+
+#endif /* HEADERS_PLANEBUILDER_H_ */

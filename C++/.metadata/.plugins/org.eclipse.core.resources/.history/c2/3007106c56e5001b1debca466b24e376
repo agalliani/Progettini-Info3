@@ -1,0 +1,22 @@
+#include "headers/Aereo.h"
+
+Aereo::Aereo(string tipoAereo) {
+	this->_plane = tipoAereo;
+	cout << "Costruttore Aereo" << endl;
+}
+
+virtual Aereo::~Aereo() {
+	cout << "Distruttore Aereo: " << _plane << endl;
+}
+
+void Aereo::setEngine(string engine) {
+	_engine = engine;
+}
+
+void Aereo::setBody(string body){
+	_body = body;
+}
+
+void string getEngine(){
+	return _engine;
+}

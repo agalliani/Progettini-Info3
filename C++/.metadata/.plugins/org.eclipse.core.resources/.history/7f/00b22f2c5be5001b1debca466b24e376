@@ -1,0 +1,12 @@
+#include "headers/PlaneBuilder.h"
+
+//costruttore
+PlaneBuilder::PlaneBuilder() {
+	_aereo = 0;
+	cout << "Costruttore PlaneBuilder" << endl;
+}
+
+virtual PlaneBuilder::~PlaneBuilder(){
+
+}
+

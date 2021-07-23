@@ -1,0 +1,12 @@
+scenario fight
+load ../specifiche/control.asm
+check sceltaCorpo = FIGHT_BODY;
+check sceltaMotore = JET_ENGINE;
+set monMotore := JET_ENGINE;
+set monCorpo := FIGHT_BODY;
+step
+check sceltaCorpo = FIGHT_BODY;
+check sceltaMotore = JET_ENGINE;
+check aereo = FIGHT;
+check outMess = "Aereo da Combattimento costruito!";
+step

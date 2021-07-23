@@ -1,0 +1,394 @@
+2021-06-21 16:50:50,934 ERROR [ForkJoinPool.commonPool-worker-4] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-06-21 16:50:50,942 ERROR [ForkJoinPool.commonPool-worker-4] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-06-21 16:50:58,211  WARN [ModalContext] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:50:58,213  WARN [ModalContext] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:50:58,864  WARN [Worker-4: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:50:58,869  WARN [Worker-4: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:51:10,085 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-06-21 16:51:10,092 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaLineBreakpoint
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-06-21 16:51:18,454  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:51:18,454  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:51:19,936  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:51:19,937  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:51:20,254  WARN [Worker-0: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:51:20,255  WARN [Worker-0: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:51:22,294 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.ToggleBreakpointAdapter
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-06-21 16:54:51,257  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:54:51,258  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:54:51,412  WARN [Worker-14: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:54:51,412  WARN [Worker-14: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:55:06,268  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:55:06,268  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:55:20,974  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:55:20,974  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:55:21,125  WARN [Worker-12: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:55:21,125  WARN [Worker-12: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:56:01,173  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:56:01,174  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:56:01,270  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:56:01,271  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:56:06,552 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-06-21 16:57:23,557  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:57:23,557  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:57:23,738  WARN [Worker-17: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:57:23,738  WARN [Worker-17: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:58:06,180  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:58:06,181  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:58:06,397  WARN [Worker-8: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:58:06,397  WARN [Worker-8: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:58:49,695  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:58:49,696  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:58:49,855  WARN [Worker-14: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:58:49,856  WARN [Worker-14: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 16:59:03,319  WARN [Worker-17: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 16:59:03,319  WARN [Worker-17: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:00:22,045  WARN [Worker-8: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:00:22,045  WARN [Worker-8: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:00:44,315  WARN [Worker-17: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:00:44,315  WARN [Worker-17: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:01:10,563  WARN [Worker-8: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:01:10,564  WARN [Worker-8: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:03:45,867  WARN [Worker-14: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:03:45,867  WARN [Worker-14: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:04:08,516  WARN [Worker-14: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:04:08,516  WARN [Worker-14: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:04:48,389  WARN [Worker-23: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:04:48,389  WARN [Worker-23: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:04:59,216 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2021-06-21 17:04:59,216 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2021-06-21 17:05:03,355  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:03,355  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:05:03,587  WARN [Worker-23: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:03,588  WARN [Worker-23: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:05:14,865  WARN [Worker-26: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:14,866  WARN [Worker-26: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:05:18,855  WARN [Worker-14: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:18,856  WARN [Worker-14: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:05:21,662  WARN [Worker-23: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:21,662  WARN [Worker-23: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:05:24,071  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:24,071  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:05:43,488  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:43,488  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:05:43,527  WARN [Worker-22: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:05:43,527  WARN [Worker-22: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:06:00,113  WARN [Worker-25: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:06:00,113  WARN [Worker-25: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:06:36,813  WARN [Worker-27: Launching MainDriver$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:06:36,814  WARN [Worker-27: Launching MainDriver$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:08:02,271  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:08:02,272  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:08:11,097  WARN [ModalContext] - ScalaProject - Project Pizza has platform default sourceLevel.
+2021-06-21 17:08:11,097  WARN [ModalContext] - ScalaProject - Project Pizza runs on platform default installation.
+2021-06-21 17:08:11,130  WARN [ModalContext] - ScalaProject - Project Pizza has platform default sourceLevel.
+2021-06-21 17:08:11,130  WARN [ModalContext] - ScalaProject - Project Pizza runs on platform default installation.
+2021-06-21 17:08:12,310  WARN [Worker-22: Building] - ScalaProject - Project Pizza has platform default sourceLevel.
+2021-06-21 17:08:12,311  WARN [Worker-22: Building] - ScalaProject - Project Pizza runs on platform default installation.
+2021-06-21 17:08:12,321  WARN [Worker-22: Building] - ScalaProject - Project Pizza has platform default sourceLevel.
+2021-06-21 17:08:12,321  WARN [Worker-22: Building] - ScalaProject - Project Pizza runs on platform default installation.
+2021-06-21 17:08:21,339  WARN [ModalContext] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:08:21,340  WARN [ModalContext] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:08:21,554  WARN [Worker-22: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:08:21,554  WARN [Worker-22: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:08:33,947  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:08:33,947  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:08:36,284  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:08:36,284  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:08:36,424  WARN [Worker-27: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:08:36,424  WARN [Worker-27: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:14:51,482  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:14:51,482  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:19:01,696  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:19:01,696  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:19:11,835  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:19:11,835  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:19:12,004  WARN [Worker-23: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:19:12,004  WARN [Worker-23: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:23:57,091  WARN [Worker-29: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:23:57,092  WARN [Worker-29: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:25:35,723  WARN [Worker-21: Building] - ScalaProject - Project Pizza has platform default sourceLevel.
+2021-06-21 17:25:35,723  WARN [Worker-21: Building] - ScalaProject - Project Pizza runs on platform default installation.
+2021-06-21 17:25:48,953  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:25:48,954  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:25:49,160  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:25:49,160  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:31:28,603  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:31:28,603  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:31:28,766  WARN [Worker-30: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:31:28,766  WARN [Worker-30: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:31:41,295 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2021-06-21 17:31:41,295 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2021-06-21 17:32:05,075  WARN [Worker-29: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:32:05,075  WARN [Worker-29: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:32:12,172  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:32:12,172  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:32:12,325  WARN [Worker-31: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:32:12,325  WARN [Worker-31: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:32:29,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2021-06-21 17:32:29,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2021-06-21 17:32:29,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2021-06-21 17:33:02,407  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:33:02,407  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:33:02,557  WARN [Worker-28: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:33:02,557  WARN [Worker-28: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:34:00,116  WARN [Worker-28: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:34:00,116  WARN [Worker-28: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:34:08,688  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:34:08,688  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:34:10,404  WARN [Worker-33: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:34:10,404  WARN [Worker-33: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:37:33,897  WARN [Worker-32: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:37:33,897  WARN [Worker-32: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:37:53,663  WARN [Worker-33: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:37:53,663  WARN [Worker-33: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:38:00,316  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:38:00,316  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:38:54,928  WARN [Worker-29: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:38:54,929  WARN [Worker-29: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:38:55,291  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:38:55,291  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:39:08,169  WARN [Java indexing] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:39:08,169  WARN [Java indexing] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:39:11,563  WARN [Worker-31: Building Workspace] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:39:11,563  WARN [Worker-31: Building Workspace] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:39:38,007  WARN [Worker-32: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:39:38,007  WARN [Worker-32: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - java.lang.IndexOutOfBoundsException: 30
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:170)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.toSingleLine(ScalaPresentationCompiler.scala:531)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.eclipseProblem(ScalaPresentationCompiler.scala:499)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$problemsOf$1(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:209)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$currentProblems$1(InteractiveCompilationUnit.scala:187)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.Option.flatMap(Option.scala:171)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems(InteractiveCompilationUnit.scala:183)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems$(InteractiveCompilationUnit.scala:180)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.currentProblems(ScalaSourceFile.scala:71)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:151)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+2021-06-21 17:40:10,328 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:49)
+2021-06-21 17:40:10,329 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+2021-06-21 17:40:10,329 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+2021-06-21 17:40:10,329 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+2021-06-21 17:40:17,841 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - java.lang.IndexOutOfBoundsException: 10
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:170)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.toSingleLine(ScalaPresentationCompiler.scala:531)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.eclipseProblem(ScalaPresentationCompiler.scala:499)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$problemsOf$1(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:209)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$currentProblems$1(InteractiveCompilationUnit.scala:187)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.Option.flatMap(Option.scala:171)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems(InteractiveCompilationUnit.scala:183)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems$(InteractiveCompilationUnit.scala:180)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.currentProblems(ScalaSourceFile.scala:71)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:151)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:49)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+2021-06-21 17:40:17,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - java.lang.IndexOutOfBoundsException: 31
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:170)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.toSingleLine(ScalaPresentationCompiler.scala:531)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.eclipseProblem(ScalaPresentationCompiler.scala:499)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$problemsOf$1(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:209)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$currentProblems$1(InteractiveCompilationUnit.scala:187)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.Option.flatMap(Option.scala:171)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems(InteractiveCompilationUnit.scala:183)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems$(InteractiveCompilationUnit.scala:180)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.currentProblems(ScalaSourceFile.scala:71)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:151)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:49)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+2021-06-21 17:40:25,906 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+2021-06-21 17:40:56,681  WARN [Worker-30: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:40:56,681  WARN [Worker-30: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:41:03,770  WARN [Worker-42: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:41:03,770  WARN [Worker-42: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:42:13,274  WARN [Worker-37: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:42:13,274  WARN [Worker-37: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - java.lang.IndexOutOfBoundsException: 27
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:170)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.toSingleLine(ScalaPresentationCompiler.scala:531)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.eclipseProblem(ScalaPresentationCompiler.scala:499)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$problemsOf$1(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:209)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$currentProblems$1(InteractiveCompilationUnit.scala:187)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.Option.flatMap(Option.scala:171)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems(InteractiveCompilationUnit.scala:183)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems$(InteractiveCompilationUnit.scala:180)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.currentProblems(ScalaSourceFile.scala:71)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:151)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:49)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+2021-06-21 17:42:51,215 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+2021-06-21 17:43:08,965  WARN [Worker-39: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:43:08,966  WARN [Worker-39: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:44:35,310  WARN [Worker-38: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:44:35,310  WARN [Worker-38: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:45:04,817  WARN [Worker-21: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:45:04,817  WARN [Worker-21: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:45:04,947  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:45:04,947  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:45:05,992 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - java.lang.IndexOutOfBoundsException: 9
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:170)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.toSingleLine(ScalaPresentationCompiler.scala:531)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$PresentationReporter.eclipseProblem(ScalaPresentationCompiler.scala:499)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$problemsOf$1(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.collection.immutable.List.flatMap(List.scala:335)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:202)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.problemsOf(ScalaPresentationCompiler.scala:209)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$currentProblems$1(InteractiveCompilationUnit.scala:187)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.Option.flatMap(Option.scala:171)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems(InteractiveCompilationUnit.scala:183)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.currentProblems$(InteractiveCompilationUnit.scala:180)
+2021-06-21 17:45:05,993 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.currentProblems(ScalaSourceFile.scala:71)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:151)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:39)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:81)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:72)
+2021-06-21 17:45:05,994 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+2021-06-21 17:45:13,595  WARN [Worker-31: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:45:13,595  WARN [Worker-31: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:45:13,937  WARN [Java indexing] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:45:13,937  WARN [Java indexing] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:45:52,874  WARN [Worker-41: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:45:52,874  WARN [Worker-41: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:46:40,466  WARN [Worker-44: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:46:40,466  WARN [Worker-44: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:47:02,796  WARN [Worker-31: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:47:02,796  WARN [Worker-31: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:47:28,180  WARN [Worker-38: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:47:28,180  WARN [Worker-38: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:48:46,157  WARN [Worker-37: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:48:46,157  WARN [Worker-37: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:49:08,009  WARN [Worker-31: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:49:08,009  WARN [Worker-31: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:51:17,763  WARN [Worker-31: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:51:17,763  WARN [Worker-31: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:51:53,833  WARN [Worker-41: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:51:53,833  WARN [Worker-41: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:52:03,238  WARN [Worker-37: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:52:03,238  WARN [Worker-37: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:52:08,586  WARN [Worker-37: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:52:08,586  WARN [Worker-37: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:53:04,909  WARN [Worker-30: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:53:04,909  WARN [Worker-30: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:53:19,921  WARN [Worker-32: Building] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:53:19,921  WARN [Worker-32: Building] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:54:51,265  WARN [Worker-39: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:54:51,265  WARN [Worker-39: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:56:38,619  WARN [Worker-44: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:56:38,619  WARN [Worker-44: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:57:10,668  WARN [Worker-41: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:57:10,668  WARN [Worker-41: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-06-21 17:57:54,723  WARN [Worker-32: Launching Main$] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-06-21 17:57:54,723  WARN [Worker-32: Launching Main$] - ScalaProject - Project Aerei runs on platform default installation.
+2021-07-15 11:37:50,211 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 11:37:50,227 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:37:51,601  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-07-15 11:37:51,601  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-07-15 11:37:51,603  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-07-15 11:37:51,603  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-07-15 11:38:15,306 ERROR [Worker-11: Launching Main$] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 11:38:15,322 ERROR [Worker-11: Launching Main$] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.JDIDebugModel
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 11:38:15,510 ERROR [Worker-16: Creating console for C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (15-Jul-2021 11:38:15)] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.console.JavaConsoleTracker
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 16:11:51,543 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 16:11:51,554 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 16:11:53,121  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-07-15 16:11:53,121  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-07-15 16:11:53,131  WARN [main] - ScalaProject - Project Aerei has platform default sourceLevel.
+2021-07-15 16:11:53,131  WARN [main] - ScalaProject - Project Aerei runs on platform default installation.
+2021-07-15 16:11:58,530 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.ToggleBreakpointAdapter
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2021-07-15 16:11:58,606 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine implemented interfaces of missing type org.eclipse.jdt.internal.core.manipulation.JavaElementLabelComposerCore
+ [Xlint:cantFindType]
+2021-07-15 16:11:58,614 ERROR [main] - System.err - [org.eclipse.jdt.debug] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.debug.core.IJavaHotCodeReplaceListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]

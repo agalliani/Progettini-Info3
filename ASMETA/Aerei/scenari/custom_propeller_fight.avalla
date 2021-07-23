@@ -1,0 +1,12 @@
+scenario custom_propeller_fight
+load ../specifiche/control.asm
+check sceltaCorpo = FIGHT_BODY;
+check sceltaMotore = PROPELLER_ENGINE;
+set monMotore := PROPELLER_ENGINE;
+set monCorpo := FIGHT_BODY;
+step
+check sceltaCorpo = FIGHT_BODY;
+check sceltaMotore = PROPELLER_ENGINE;
+check aereo = CUSTOM;
+check outMess = "Aereo Custom costruito!";
+step

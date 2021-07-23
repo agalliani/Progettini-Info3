@@ -1,0 +1,10 @@
+#include "headers/Aereo.h"
+
+Aereo::Aereo(string tipoAereo){
+	this->_plane = tipoAereo;
+	cout<<"Costruttore Aereo"<<endl;
+}
+
+
+
+
